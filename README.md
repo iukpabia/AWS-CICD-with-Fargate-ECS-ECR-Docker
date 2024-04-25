@@ -82,35 +82,60 @@ Cluster Created <br/>
 <br />
 <br />
 
-Create a resource block for resource group in Terraform <br/>
+Create a task definition <br/>
 
-<img width="450" alt="Picture8 str 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/f6b0c9be-53f8-44de-922c-cc8ade771afd">
-
-
-<br />
-<br />
-
-
-Create a resource block for storage account in Terraform. Apply terraform commands to create resources <br/>
-
-<img width="450" alt="Picture9 str 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/30d6d0b1-4f9d-4c96-9ea2-394a9f8a0151">
-<br />
-<br />
-
- Resource group deployment confirmation <br/>
-
-<img width="450" alt="Picture10 str 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/e424b494-4268-4eb7-8a7a-c2ca9ba0a88b">
+<img width="450" alt="Picture8" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/de5a5c9d-e7ec-4139-9a3c-6a0f64c6eb7f">
 
 
 <br />
 <br />
 
-Storage account deployment confirmation <br/>
 
-<img width="450" alt="Picture11 str 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/a4112a9f-83b9-47d6-b1c1-cea5c330097a">
+Create a Service <br/>
+
+<img width="450" alt="Picture9" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/f41461d6-fda2-4391-ad4d-a1049fcaa8e0">
+
+<br />
+<br />
+
+ Service Created <br/>
+
+<img width="450" alt="Picture10" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/32615281-a4cf-40c3-ad92-ec992ce87459">
+
 
 
 <br />
 <br />
+
+Tasks Created <br/>
+
+<img width="450" alt="Picture11" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/891e2a57-08aa-402d-9e53-b3a90139f1b5">
+
+
+<br />
+<br />
+
+Create a Code Pipeline to automate the entire process <br/>
+
+<img width="468" alt="Picture12" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/ed21f0e8-a765-4891-a049-823b8b7f64fa">
+
+
+<br />
+<br />
+
+Code build successful <br/>
+
+<img width="472" alt="Picture13" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/dd5a688c-d7e9-4587-96d6-ad8d7ea19876">
+
+
+
+<br />
+<br />
+
+Code deploy successful <br/>
+
+<img width="459" alt="Picture14" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/49b2bc6c-80fe-4b73-b3fe-83c8f731ab85">
+
+
 
 <!--
