@@ -68,17 +68,16 @@ Project creation successful <br/>
 <br />
 <br />
 
-Deployed Vnet in Azure cloud <br/>
+Create a Cluster on ECS <br/>
 
-<img width="450" alt="Picture6 vnet 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/5ceffb2b-9081-46b6-8397-5921f826dc33">
+<img width="450" alt="Picture6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/9827504f-0b00-4ed2-b01f-56d9ddfbea10">
 
 <br />
 <br />
 
-Deployed Subnet in the Vnet created above <br/>
+Cluster Created <br/>
 
-<img width="450" alt="Picture7 sub 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c625996c-9b51-40fd-9d61-dd3802706d38">
-
+<img width="450" alt="Picture7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/0356d9d6-4a06-43f5-8332-a5681fca22fc">
 
 <br />
 <br />
