@@ -22,23 +22,24 @@ Amazon Elastic container registry (ECR), Code Pipeline & Load balancers.
   
 <p align="center">
 
-create Provider.tf file in a new folder in Terraform <br/>
+create a new repo in Codecommit <br/>
 
-<img width="450" alt="Picture first pic provideer" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6fa4b706-164a-4a45-b9d0-b302275effda">
+<img width="450" alt="Picture1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6a6b965e-3421-4051-8cb8-8479f3c5354f">
+
 
 <br />
 <br />
 
-create a Terraform resource block for resource group <br/>
+Clone repo and push code to Code Commit <br/>
 
-<img width="450" alt="Picture1 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/10a4b3b9-184a-406e-a8ae-09c9ec6e7b6c">
-
+<img width="450" alt="Picture2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/0006d7dd-9a98-447f-a6a9-a562f05a7d4e">
 <br />
 <br />
 
 Open a terminal and initiate Terraform init, Terraform plan and Terraform apply <br/>
 
-<img width="450" alt="Picture2 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/4d384df9-3e34-46c4-a173-7899986cd3c1">
+<img width="450" alt="Picture2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/0006d7dd-9a98-447f-a6a9-a562f05a7d4e">
+
 <br />
 <br />
 
