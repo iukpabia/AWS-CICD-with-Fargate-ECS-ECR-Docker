@@ -1,0 +1,6 @@
+[
+    {
+        "name": "httpd",
+        "imageUri": "<AccountId>.dkr.ecr.us-east-1.amazonaws.com/ecs-cicd-demo:latest"
+    }
+]
