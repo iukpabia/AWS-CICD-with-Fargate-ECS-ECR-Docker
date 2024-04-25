@@ -36,28 +36,34 @@ Clone repo and push code to Code Commit <br/>
 <br />
 <br />
 
-Open a terminal and initiate Terraform init, Terraform plan and Terraform apply <br/>
+Code Successfully push to Code Commit repo <br/>
 
-<img width="450" alt="Picture2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/0006d7dd-9a98-447f-a6a9-a562f05a7d4e">
+<img width="409" alt="Picture3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/a70f6b47-be7a-47e9-a095-04ca4fb1ac48">
+
 
 <br />
 <br />
 
-Confirm resource group deployment in Azure cloud <br/>
+Create a new project <br/>
 
-<img width="450" alt="Picture3 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2ea2d3e8-4487-4946-814b-e8c9c3ecb8d3">
+<img width="450" alt="Picture4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/e1dd4d3e-98f8-4b10-a497-730e9eb6294e">
 <br />
 <br />
 
-Create a resource block for Virtual network in Terraform <br/>
+Create a project on code build (enable the privileged flag for building docker images and modifying the build 
+role to access ECR)
+ <br/>
 
-<img width="450" alt="Picture4 vnet 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/018c4d1e-65c3-40a0-8456-6bfcd7be85d1">
+<img width="450" alt="Picture5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/cbaf049a-59ce-4f37-911b-ecd6ad41fb1b">
+
+
 <br />
 <br />
 
-Create two resource blocks for subnet and apply Terraform command <br/>
+Project creation successful <br/>
 
-<img width="450" alt="Picture5 sub 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/fe0a33ee-f1c3-4e0a-9a69-9b46d1112097">
+<img width="450" alt="Picture5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/9867deeb-d8d5-4834-b297-8c0ce353a5f3">
+
 
 <br />
 <br />
